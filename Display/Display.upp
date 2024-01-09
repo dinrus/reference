@@ -1,0 +1,11 @@
+description "Using Display to alter DropList to display fonts\377";
+
+uses
+	CtrlLib;
+
+file
+	Display.cpp;
+
+mainconfig
+	"" = "GUI";
+

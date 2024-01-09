@@ -1,0 +1,11 @@
+description "Placing code-generated graphics into Qtf\377";
+
+uses
+	CtrlLib;
+
+file
+	main.cpp;
+
+mainconfig
+	"" = "GUI";
+
